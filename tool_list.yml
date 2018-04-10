@@ -1,0 +1,19 @@
+tools:
+- name: split_paired_collection
+  owner: refinery-platform
+  revisions:
+  - 3a60513b51a2
+  tool_panel_section_label: Convert Formats
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: refinery_test
+  owner: refinery-platform
+  revisions:
+  - b87749d7a24c
+  tool_panel_section_label: Text Manipulation
+  tool_shed_url: testtoolshed.g2.bx.psu.edu
+- name: refinery_test_workflows
+  owner: refinery-platform
+  revisions:
+  - de913d82bdcb
+  tool_panel_section_label: Refinery Test Workflows
+  tool_shed_url: testtoolshed.g2.bx.psu.edu
