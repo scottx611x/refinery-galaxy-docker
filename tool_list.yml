@@ -12,8 +12,8 @@ tools:
   tool_panel_section_label: Text Manipulation
   tool_shed_url: testtoolshed.g2.bx.psu.edu
 - name: refinery_test_workflows
-  owner: refinery-platform
+  owner: scottx611x
   revisions:
-  - de913d82bdcb
+  - 204d845997ed
   tool_panel_section_label: Refinery Test Workflows
   tool_shed_url: testtoolshed.g2.bx.psu.edu
