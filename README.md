@@ -18,7 +18,7 @@ $ docker run -d -p 8080:80 -p 8021:21 -p 8022:22 scottx611x/refinery-galaxy-dock
 ```
 
 ### Integration with a locally running Refinery instance:
-- Start the docker container with one of the above methods 
+- Start the docker container outside of the Vagrant VM with one of the above methods 
     - Ensure that Galaxy is accessible at: http://localhost:8080
     - Login (u: `admin` p: `admin`) and make sure the two test workflows are installed @ http://localhost:8080/workflow
 - Follow [these steps to configure your Refinery Instance for use with Galaxy](https://github.com/refinery-platform/refinery-platform/wiki/setting-up-newer-galaxy#configure-refinery-for-your-galaxy-instance)
